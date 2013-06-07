@@ -9,3 +9,6 @@ Objetivo
 Fazer um levantamento de todos os acidentes ocorridos nas rodovias federais do Brasil. 
 
 Onde poderei apresentar as rodovias onde mais ocorreram acidentes, em quais períodos e outros. 
+
+Idéia do projeto e Responsável pelo projeto:
+Leonardo Cardoso <leonardo.cs.bsb@gmail.com>
